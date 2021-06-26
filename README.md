@@ -1,2 +1,9 @@
 # GameSeaBattle
-The game Sea battle backend: .net core + rabbitmq + signalR
+## Backend: 
+ * API - .net core 
+ * Queue rabbitmq 
+ * Notification to client - SignalR
+
+## FrontEnd: 
+ * SPA- Angular
+ * Android App - Flutter
